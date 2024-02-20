@@ -13,7 +13,7 @@ Sub InsertHeaderInfo()
     
     ' Insert the name and date in the header with the desired formatting
     headerRange.ParagraphFormat.Alignment = wdAlignParagraphLeft ' Align text to the left
-    headerRange.Text = "Gabriel Huke-Jenner"
+    headerRange.Text = "YOUR NAME"
 
     ' Insert the date with a right-aligned tab character to align it to the right
     headerRange.InsertAfter Format(Now, "                                                                                                           dd/mm/yyyy")
