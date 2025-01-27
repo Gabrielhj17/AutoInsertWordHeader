@@ -37,7 +37,7 @@ To integrate the `AutoInsertWordHeader` macro into Microsoft Word:
    - In the editor, insert a new module:
      - Right-click on any existing module or the project tree.
      - Select `Insert` > `Module`.
-   - Copy and paste the macro code from the [AutoInsertWordHeader repository](https://github.com/Gabrielhj17/AutoInsertWordHeader/blob/main/code/AutoInsertHeader.bas) into the module.
+   - Copy and paste the macro code from the [AutoInsertWordHeader repository](https://github.com/Gabrielhj17/AutoInsertWordHeader/blob/main/Code/AutoInsertHeader.bas) into the module.
    - Save and close the VBA editor.
 
 For a detailed guide on creating and running macros, refer to [Microsoft's official documentation](https://support.microsoft.com/en-us/office/create-or-run-a-macro-c6b99036-905c-49a6-818a-dfb98b7c3c9c).
