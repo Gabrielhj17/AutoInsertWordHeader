@@ -64,7 +64,7 @@ Once the macro is installed:
 The macro is designed for flexibility:
 
 - **Name**: By default, the macro uses a placeholder for the name. Replace `'Your Name'` in the code with your actual name.
-- **Date Format**: Adjust the date format by modifying the `Format(Date, "MMMM d, yyyy")` function in the macro code to your preferred format.
+- **Date Format**: Adjust the date format by modifying the `Format(Date, "dd/mm/yyyy")` function in the macro code to your preferred format.
 - **Alignment**: The current alignment settings may need adjustment based on your template. Modify the alignment properties in the macro to suit your needs.
 
 Feel free to enhance the macro further. Contributions are welcome!
