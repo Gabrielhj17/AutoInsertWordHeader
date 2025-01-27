@@ -8,7 +8,7 @@ A VBA macro for Microsoft Word that automatically inserts your name and the curr
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Customization](#customization)
+- [Customisation](#customisation)
 - [Contributing](#contributing)
 - [License](#license)
 
